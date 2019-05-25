@@ -1,5 +1,5 @@
-# Machine-Learning-Scala-
-Credit Card Fraud Detection
+# Credit Card Fraud Detection
+  Machine-Learning-Scala-
 
 This dataset contains transactions made by European credit cardholders. 
 (A)About Data-
